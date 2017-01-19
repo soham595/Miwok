@@ -5,47 +5,32 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="89766498158240"
-    token="-2376597816159191580"
+    timestamp="94433370085966"
+    token="2022282134007289186"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="334" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="87" />
+        duration="0" />
     <task
         name="verifier"
-        duration="5" />
-
-    <artifact
-        location="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-        type="DEX" />
+        duration="0" />
 
     <build
-        timestamp="86837107591106"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="94315370300170"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
             location="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="89766498158240"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="171958708827404"
-        verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="C:\Users\GoDFA7h3R\Downloads\Compressed\ud839_Miwok-Starter-code\app\build\outputs\apk\app-debug.apk"
-            type="MAIN" />
-    </build>
+        timestamp="94433370085966"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

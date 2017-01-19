@@ -1,4 +1,4 @@
-#Thu Jan 19 15:10:38 IST 2017
+#Thu Jan 19 17:15:07 IST 2017
 base.0=C\:\\Users\\GoDFA7h3R\\AndroidStudioProjects\\ud839_Miwok-Starter-code\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6dfadb04864feb0a42fb99466383ae07578659a1
 renamed.1=classes.dex
 renamed.0=classes2.dex

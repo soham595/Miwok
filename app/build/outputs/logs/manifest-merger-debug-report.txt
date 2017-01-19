@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:16:1-42:12
+ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:16:1-65:12
 	package
 		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:17:5-40
 		INJECTED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app
 		INJECTED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:19:5-40:19
+ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:19:5-63:19
 MERGED from [com.android.support:design:23.3.0] C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
@@ -45,29 +45,43 @@ ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app
 	android:name
 		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:29:27-74
 activity#com.example.android.miwok.NumbersActivity
-ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:32:9-33:55
+ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:32:9-38:16
 	android:label
 		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:33:13-53
+	android:parentActivityName
+		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:34:13-55
 	android:name
 		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:32:19-50
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:35:9-37:44
+	android:value
+		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:37:13-42
+	android:name
+		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:36:13-59
 activity#com.example.android.miwok.ColorsActivity
-ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:34:9-35:54
+ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:40:9-46:20
 	android:label
-		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:35:13-52
+		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:41:13-52
+	android:parentActivityName
+		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:42:13-55
 	android:name
-		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:34:19-49
+		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:40:19-49
 activity#com.example.android.miwok.FamilyActivity
-ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:36:9-37:54
+ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:48:9-54:20
 	android:label
-		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:37:13-52
+		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:49:13-52
+	android:parentActivityName
+		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:50:13-55
 	android:name
-		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:36:19-49
+		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:48:19-49
 activity#com.example.android.miwok.PhrasesActivity
-ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:38:9-39:55
+ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:56:9-62:20
 	android:label
-		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:39:13-53
+		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:57:13-53
+	android:parentActivityName
+		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:58:13-55
 	android:name
-		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:38:19-50
+		ADDED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml:56:19-50
 uses-sdk
 INJECTED from C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:23.3.0] C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\AndroidManifest.xml:20:5-43

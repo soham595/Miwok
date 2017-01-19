@@ -2291,17 +2291,18 @@ containing a value of this type.
         public static final int family_son=0x7f02005c;
         public static final int family_younger_brother=0x7f02005d;
         public static final int family_younger_sister=0x7f02005e;
-        public static final int notification_template_icon_bg=0x7f020069;
-        public static final int number_eight=0x7f02005f;
-        public static final int number_five=0x7f020060;
-        public static final int number_four=0x7f020061;
-        public static final int number_nine=0x7f020062;
-        public static final int number_one=0x7f020063;
-        public static final int number_seven=0x7f020064;
-        public static final int number_six=0x7f020065;
-        public static final int number_ten=0x7f020066;
-        public static final int number_three=0x7f020067;
-        public static final int number_two=0x7f020068;
+        public static final int ic_play_arrow_white_24dp=0x7f02005f;
+        public static final int notification_template_icon_bg=0x7f02006a;
+        public static final int number_eight=0x7f020060;
+        public static final int number_five=0x7f020061;
+        public static final int number_four=0x7f020062;
+        public static final int number_nine=0x7f020063;
+        public static final int number_one=0x7f020064;
+        public static final int number_seven=0x7f020065;
+        public static final int number_six=0x7f020066;
+        public static final int number_ten=0x7f020067;
+        public static final int number_three=0x7f020068;
+        public static final int number_two=0x7f020069;
     }
     public static final class id {
         public static final int action0=0x7f0d0079;
