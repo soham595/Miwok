@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 public class NumbersActivity extends AppCompatActivity {
 
-    private MediaPlayer mMediaPlayer;
+    public MediaPlayer mMediaPlayer;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -46,7 +46,8 @@ public class NumbersActivity extends AppCompatActivity {
 
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
-            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+            public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
+                Word word = words.get(position);
                 mMediaPlayer = MediaPlayer.create(NumbersActivity.this, R.raw.number_one);
                 mMediaPlayer.start();
             }
