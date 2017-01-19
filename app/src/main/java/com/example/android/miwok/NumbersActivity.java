@@ -48,7 +48,7 @@ public class NumbersActivity extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
                 Word word = words.get(position);
-                mMediaPlayer = MediaPlayer.create(NumbersActivity.this, R.raw.number_one);
+                mMediaPlayer = MediaPlayer.create(NumbersActivity.this, word.getAudioResourceId());
                 mMediaPlayer.start();
             }
         });
