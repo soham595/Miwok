@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_02ec4497e2601ed947bfeb3a4aa204c9b266e6ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_a5ffb23a944db02a53de98b967b4f81d7e9f6a42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GoDFA7h3R\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_9cec3a785cc11b37a6c34a50a75fc6dc597695b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_25c782d22f823b045612c2b4603f681ba0290781\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_021a864975625cc9f2ff92c6a81e0667ec080706\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_4e4dc5a85e2decfa8e41004f73ee5a39759d2cb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9bfc3c8d457704f5857b0aaec070866d09f45440">
+        <dex dex="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_15707106cf919a5da030a37563b2f83dd32b8f61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_78c558eef9224d9da711958c92e70f2c07609baf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_273c7df10d16c8baf70c434fbf8706c045d48db1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="20051ca4b0d9984b737c9365a871de9879bb3383">
+        <dex dex="C:\Users\GoDFA7h3R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6dfadb04864feb0a42fb99466383ae07578659a1\classes.dex" />
+    </item>
+
+</items>
